@@ -170,3 +170,13 @@ p
 {
     color: #333
 }
+.about .box 
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+.about .box .year_company
+{
+    min-width: 150px;
+}
